@@ -47,3 +47,7 @@ SUBQUERY
 CTE 
 
 <img width="764" alt="Image" src="https://github.com/user-attachments/assets/359a1b74-6d7f-499e-b394-d131546b9bbf" />
+
+SALES ANALYSIS REPORT
+
+[Sales Analysis Report.txt](https://github.com/user-attachments/files/18811034/Sales.Analysis.Report.txt)
