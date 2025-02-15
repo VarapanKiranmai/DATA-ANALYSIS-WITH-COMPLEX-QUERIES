@@ -43,3 +43,7 @@ WINDOW FUNCTION
 SUBQUERY
 
 <img width="836" alt="Image" src="https://github.com/user-attachments/assets/0f5c3d71-33a7-4c9f-b190-46063cb41795" />
+
+CTE 
+
+<img width="764" alt="Image" src="https://github.com/user-attachments/assets/359a1b74-6d7f-499e-b394-d131546b9bbf" />
