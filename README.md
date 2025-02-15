@@ -32,3 +32,6 @@ TABLE 4
 
 <img width="757" alt="Image" src="https://github.com/user-attachments/assets/2b88c6c3-fb70-4bd3-9077-b6f8bd032dbf" />
 
+TABLE 5
+
+<img width="650" alt="Image" src="https://github.com/user-attachments/assets/f1cca407-6445-4168-92b9-c81140c966cc" />
