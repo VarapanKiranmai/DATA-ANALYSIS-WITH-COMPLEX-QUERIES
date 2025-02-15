@@ -18,3 +18,7 @@ OUTPUT
 
 TABLE 1
 
+<img width="609" alt="Image" src="https://github.com/user-attachments/assets/b882638c-ada7-4aa4-a87f-0993565ce941" />
+
+
+
