@@ -35,3 +35,7 @@ TABLE 4
 TABLE 5
 
 <img width="650" alt="Image" src="https://github.com/user-attachments/assets/f1cca407-6445-4168-92b9-c81140c966cc" />
+
+WINDOW FUNCTION 
+
+<img width="759" alt="Image" src="https://github.com/user-attachments/assets/c09ecbec-ab9b-41d4-ba3c-8283a5cb2c7d" />
