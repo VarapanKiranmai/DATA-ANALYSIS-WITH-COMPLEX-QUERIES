@@ -1,0 +1,40 @@
+Sales Analysis Report
+Introduction
+This report provides an analysis of sales data for a given period. The report includes total sales by product category, top-selling products, total amount spent by each customer, and monthly sales trends.
+
+Total Sales by Product Category
+| Category    | Total Sales |
+|--------------|--------------|
+| Electronics  | $2,299.98  |
+| Sports       | $199.98     |
+| Gaming       | $499.99     |
+| Computers    | $799.99     |
+
+Top 5 Best-Selling Products
+| Product Name          | Total Quantity Sold |
+|------------------------|----------------------|
+| Apple iPhone 13      | 1                    |
+| Samsung TV 4K         | 1                    |
+| Nike Running Shoes    | 2                    |
+| Sony PlayStation 5    | 1                    |
+| HP Laptop             | 1                    |
+
+Total Amount Spent by Each Customer
+| Customer Name      | Total Spent |
+|--------------------|-------------|
+| John Smith        | $999.99     |
+| Jane Doe          | $1,299.99  |
+| Bob Johnson       | $99.99      |
+| Maria Rodriguez   | $499.99     |
+| David Lee         | $799.99     |
+
+Monthly Sales Trend
+| Month       | Total Sales |
+|-------------|--------------|
+| January    | $2,299.98  |
+| February   | $199.98     |
+| March      | $499.99     |
+| April      | $799.99     |
+
+Conclusion
+Based on the analysis, the top-selling product category is Electronics, with Apple iPhone 13 being the best-selling product. The customer who spent the most amount is Jane Doe. The monthly sales trend shows that January has the highest sales amount.
