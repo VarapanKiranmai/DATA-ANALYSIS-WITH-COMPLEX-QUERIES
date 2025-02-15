@@ -39,3 +39,7 @@ TABLE 5
 WINDOW FUNCTION 
 
 <img width="759" alt="Image" src="https://github.com/user-attachments/assets/c09ecbec-ab9b-41d4-ba3c-8283a5cb2c7d" />
+
+SUBQUERY
+
+<img width="836" alt="Image" src="https://github.com/user-attachments/assets/0f5c3d71-33a7-4c9f-b190-46063cb41795" />
